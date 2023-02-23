@@ -8,6 +8,7 @@ export default defineConfig({
     server: {
         open: true,
         host: true,
+        port: 80,
     },
     test: {
         globals: true,
