@@ -1,7 +1,0 @@
-/frontend/.vscode
-/frontend/coverage
-/frontend/dist
-/frontend/node_modules
-/frontend/.env
-/frontend/.env.production
-/backend/env.php
